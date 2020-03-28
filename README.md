@@ -1,2 +1,3 @@
-# vjeantet.fr
-my blog
+Blog/Front Page for turning point church.
+
+
