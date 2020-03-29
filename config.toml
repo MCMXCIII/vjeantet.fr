@@ -1,7 +1,7 @@
-baseurl = "http://vjeantet.fr/"
+baseurl = "turningpointrockville.org/"
 copyright = "Turning Point Church"
 disqusshortname = "vjeantet"
-languagecode = "fr-FR"
+languagecode = "en-EN"
 paginate = 5
 pluralizelisttitles = false
 theme = "hugo-theme-casper"
