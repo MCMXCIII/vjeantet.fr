@@ -26,13 +26,9 @@ name = "Follow us on Social Media"
 url = ""
 weight = 101
 [[menu.main]]
-name = "Flipboard magazines"
-url = "https://flipboard.com/@vjeantet"
-weight = 102
-[[menu.main]]
-name = "Keybase (secure msg)"
+name = "Gallery"
 pre = "<h3>Meet The Family</h3>"
-url = "https://Keybase.io/vjeantet"
+url = "https://turningpointrockville.org/gallery/"
 weight = 109
 
 
